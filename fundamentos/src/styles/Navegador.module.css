@@ -5,10 +5,8 @@
     color:black;
     font-weight: bold;
     border-radius: 8px;
-    
-    
-
-}
+    cursor: pointer;
+ }
 
 .navegador:hover{
     background-color: dimgray;
