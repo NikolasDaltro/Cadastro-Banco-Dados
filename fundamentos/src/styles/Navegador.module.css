@@ -1,0 +1,15 @@
+.navegador{
+    background-color: #bbb;
+    padding: 30px;
+    margin: 10px;
+    color:black;
+    font-weight: bold;
+    border-radius: 8px;
+    
+    
+
+}
+
+.navegador:hover{
+    background-color: dimgray;
+}
