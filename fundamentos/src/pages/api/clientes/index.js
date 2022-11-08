@@ -10,6 +10,6 @@ res.status(200).json({
     id:3,
     nome: 'Mônica',
     idade: 26,
-    email: 'monicamonica@monicadele.com.br '
+    email: 'monicamonica@monicadele.com.br  '
 })
 }
