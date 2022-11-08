@@ -14,6 +14,7 @@ export default function Inicio(){
          <Navegador texto="App1" destino="/app1" />
          <Navegador texto="JSX"destino="/jsx" />
          <Navegador texto="Navegação #01"destino="/navegacao" />
+         <Navegador texto="Navegação #02"destino="/cliente/sp-2/321" />
         </div>
     )
 }
