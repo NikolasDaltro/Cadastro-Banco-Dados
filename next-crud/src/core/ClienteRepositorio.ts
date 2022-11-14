@@ -1,4 +1,4 @@
-import Cliente from "./Cliente";
+import Cliente from "./Cliente"
 
 export default repositorio ClienteRepositorio {
     salvar(cliente: Cliente): Promise<Cliente>
